@@ -1,0 +1,25 @@
+#mydiv,#myform,#mybox{
+    background-color: peru;
+    margin: 5%;
+    padding:50px;
+    color:white;
+}
+
+.rect{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+
+.circle{
+     height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: red; 
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
